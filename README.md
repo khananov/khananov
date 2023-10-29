@@ -1,6 +1,21 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/iwidniwi" target="_blank" style="text-decoration: none; color: inherit;">Timur</a>
+<h1 align="left">Hi, I'm <a href="https://t.me/iwidniwi">Timur</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning Java</h3>
+<h3 align="left">I've been studying java for about a year</h3>
 
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=khananovtf)](https://github.com/khananov/leetcode-stats)
+<p align='left'>
+   <a href="https://github.com/khananov/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khananov&layout=compact"/></a>
+<a href="https://github.com/khananov/leetcode-stats"><img height=150
+                                                                  src="https://leetcode-stats-six.vercel.app/api?username=khananovtf"/></a>
+</p>
 
+</br>
+</br>
+
+<p align='left'>
+   <a href="https://t.me/iwidniwi">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='left'>
+   📫 How to reach me: <a href='mailto:khananovtf@gmail.com'>khananovtf@gmail.com</a>
+</p>
