@@ -1,11 +1,12 @@
 <h1 align="left">Hi, I'm <a href="https://t.me/iwidniwi">Timur</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <h3 align="left">I've been studying java for about a year</h3>
 
 <p align='left'>
    <a href="https://github.com/khananov/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=khananov&layout=compact"/></a>
-<a href="https://github.com/khananov/leetcode-stats"><img height=150
+   <a href="https://github.com/khananov/leetcode-stats"><img height=150
                                                                   src="https://leetcode-stats-six.vercel.app/api?username=khananovtf"/></a>
 </p>
 
