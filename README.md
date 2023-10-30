@@ -1,5 +1,4 @@
-<h1 align="left">Hi, I'm <a href="https://t.me/iwidniwi">Timur</a>
-   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="left">Hi, I'm Timur 👋
 </h1>
 <h3 align="left">I've been studying java for about a year</h3>
 
