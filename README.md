@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Timur 👋
 </h1>
-<h3 align="left">I've been studying java for about a year</h3>
+<h3 align="left">I'm backend java develover</h3>
 
 <p align='left'>
    <a href="https://github.com/khananov/github-readme-stats"><img height=150
